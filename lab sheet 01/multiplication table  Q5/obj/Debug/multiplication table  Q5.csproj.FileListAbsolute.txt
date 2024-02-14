@@ -1,0 +1,7 @@
+C:\Users\balas\OneDrive\Documents\C# lab\multiplication table  Q5\bin\Debug\multiplication table  Q5.exe.config
+C:\Users\balas\OneDrive\Documents\C# lab\multiplication table  Q5\bin\Debug\multiplication table  Q5.exe
+C:\Users\balas\OneDrive\Documents\C# lab\multiplication table  Q5\bin\Debug\multiplication table  Q5.pdb
+C:\Users\balas\OneDrive\Documents\C# lab\multiplication table  Q5\obj\Debug\multiplication table  Q5.csproj.AssemblyReference.cache
+C:\Users\balas\OneDrive\Documents\C# lab\multiplication table  Q5\obj\Debug\multiplication table  Q5.csproj.CoreCompileInputs.cache
+C:\Users\balas\OneDrive\Documents\C# lab\multiplication table  Q5\obj\Debug\multiplication table  Q5.exe
+C:\Users\balas\OneDrive\Documents\C# lab\multiplication table  Q5\obj\Debug\multiplication table  Q5.pdb

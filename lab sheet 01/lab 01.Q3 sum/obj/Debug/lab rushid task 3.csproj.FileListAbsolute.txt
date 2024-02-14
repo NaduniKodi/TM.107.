@@ -1,0 +1,7 @@
+C:\Users\balas\OneDrive\Documents\C# lab\lab rushid task 3\obj\Debug\lab rushid task 3.csproj.AssemblyReference.cache
+C:\Users\balas\OneDrive\Documents\C# lab\lab rushid task 3\obj\Debug\lab rushid task 3.csproj.CoreCompileInputs.cache
+C:\Users\balas\OneDrive\Documents\C# lab\lab rushid task 3\bin\Debug\lab rushid task 3.exe.config
+C:\Users\balas\OneDrive\Documents\C# lab\lab rushid task 3\bin\Debug\lab rushid task 3.exe
+C:\Users\balas\OneDrive\Documents\C# lab\lab rushid task 3\bin\Debug\lab rushid task 3.pdb
+C:\Users\balas\OneDrive\Documents\C# lab\lab rushid task 3\obj\Debug\lab rushid task 3.exe
+C:\Users\balas\OneDrive\Documents\C# lab\lab rushid task 3\obj\Debug\lab rushid task 3.pdb

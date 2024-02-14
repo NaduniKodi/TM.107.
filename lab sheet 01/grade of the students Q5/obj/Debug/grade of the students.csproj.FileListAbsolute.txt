@@ -1,0 +1,7 @@
+C:\Users\balas\OneDrive\Documents\C# lab\grade of the students\bin\Debug\grade of the students.exe.config
+C:\Users\balas\OneDrive\Documents\C# lab\grade of the students\bin\Debug\grade of the students.exe
+C:\Users\balas\OneDrive\Documents\C# lab\grade of the students\bin\Debug\grade of the students.pdb
+C:\Users\balas\OneDrive\Documents\C# lab\grade of the students\obj\Debug\grade of the students.csproj.AssemblyReference.cache
+C:\Users\balas\OneDrive\Documents\C# lab\grade of the students\obj\Debug\grade of the students.csproj.CoreCompileInputs.cache
+C:\Users\balas\OneDrive\Documents\C# lab\grade of the students\obj\Debug\grade of the students.exe
+C:\Users\balas\OneDrive\Documents\C# lab\grade of the students\obj\Debug\grade of the students.pdb

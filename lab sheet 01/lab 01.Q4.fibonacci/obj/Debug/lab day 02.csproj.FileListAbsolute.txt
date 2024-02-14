@@ -1,0 +1,7 @@
+C:\Users\balas\OneDrive\Documents\C# lab\lab day 02\obj\Debug\lab day 02.csproj.AssemblyReference.cache
+C:\Users\balas\OneDrive\Documents\C# lab\lab day 02\obj\Debug\lab day 02.csproj.CoreCompileInputs.cache
+C:\Users\balas\OneDrive\Documents\C# lab\lab day 02\bin\Debug\lab day 02.exe.config
+C:\Users\balas\OneDrive\Documents\C# lab\lab day 02\bin\Debug\lab day 02.exe
+C:\Users\balas\OneDrive\Documents\C# lab\lab day 02\bin\Debug\lab day 02.pdb
+C:\Users\balas\OneDrive\Documents\C# lab\lab day 02\obj\Debug\lab day 02.exe
+C:\Users\balas\OneDrive\Documents\C# lab\lab day 02\obj\Debug\lab day 02.pdb
